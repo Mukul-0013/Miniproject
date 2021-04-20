@@ -1,4 +1,4 @@
-''' Miniproject Code on Random Password Generator '''
+''' Miniproject Code on Random Password Generator Without using Random Library'''
 import string
 from tkinter import *
 from tkinter import Tk
